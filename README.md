@@ -44,16 +44,27 @@ GameApp——Game applications
 ### main
 
 Barrier--Obstacle class
+
 Barrierpool--Barrierpool class
+
 Bird--Birds class
+
 blueBird--blueBird class
+
 Cloud--clouds class
+
 GameBackGround--game background class
+
 GameBarrierLayer--game barrier class
+
 GameFrame--game frame class
+
 GameFrontGround--game foreground class
+
 GameTime--game time category class
+
 ikunBird--ikunBrid class
+
 redBird--redBird class
 
 ## Change Log
